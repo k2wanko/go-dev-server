@@ -5,5 +5,5 @@
 ## Usage
 
 ```
-$ ./go-dev-server_darwin_amd64 -p 8080
+$ ./go-dev-server_darwin_amd64 -p 8000
 ```
